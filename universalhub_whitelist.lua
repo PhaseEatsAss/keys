@@ -12,3 +12,7 @@ for i, v in ipairs(whitelist) do
         whitelisted = true
     end
 end
+
+if not whitelisted then
+   game.Players.LocalPlayer:Kick("You Are Not Whitelisted!") 
+end
