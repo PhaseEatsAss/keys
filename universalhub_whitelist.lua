@@ -1,6 +1,6 @@
 local whitelisted = false
 local whitelist = {
-"2620334011", //n0taf4k3
+"2620335543", //not4f4k3
 "260729679", //super1687
 "2845981809", //midokfm2020alt3
 "2845980527", //midokfm2020alt2
